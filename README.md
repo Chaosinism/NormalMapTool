@@ -9,11 +9,11 @@
 ```
 python N2H.py [Number of iterations] [NormalMapFile] [MaskFile (optional)]
 ```
-*Number of iterations*: An integer, increasing the precision of generated height map, while requiring more execution time.
+ - *Number of iterations*: An integer, increasing the precision of generated height map, while requiring more execution time.
 
-*NormalMapFile*: A PNG or JPG image
+ - *NormalMapFile*: A PNG or JPG image
 
-*MaskFile*: A PNG or JPG image, optional. If not provided, the script generates a mask based on the alpha channel of the normal map.
+ - *MaskFile*: A PNG or JPG image, optional. If not provided, the script generates a mask based on the alpha channel of the normal map.
 
 **Description:**
 
